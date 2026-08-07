@@ -1,6 +1,7 @@
 ---
 name: file-organizer
 description: Organize files by type, date, or custom rules. Use when user wants to clean up, sort, or organize files and folders.
+trigger: \bsắp xếp\b ;; \btổ chức\b ;; \borganize\b ;; \bclean up\b ;; \bdọn dẹp\b ;; \bsort\b ;; \bphân loại\b ;; \bgọn gàng\b ;; \bcategorize\b ;; \bmove file\b ;; \bsắp xếp file\b ;; \bsắp xếp thư mục\b ;; \bsắp xếp folder\b
 ---
 
 # File Organizer Skill

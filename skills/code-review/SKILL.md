@@ -1,6 +1,7 @@
 ---
 name: code-review
 description: Review code for bugs, security issues, and best practices. Use when user asks for code review, feedback on code, or code quality check.
+trigger: \bcode review\b ;; \bkiểm tra code\b ;; \baudit code\b ;; \bđánh giá code\b ;; \bpull request\b ;; \bPR review\b ;; \breview code\b ;; \breview PR\b
 ---
 
 # Code Review Skill
